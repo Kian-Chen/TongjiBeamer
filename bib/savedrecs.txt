@@ -1,0 +1,26 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shivakumar, MS
+TI Pol Pot: Death deprives justice
+SO ECONOMIC AND POLITICAL WEEKLY
+VL 33
+IS 17
+BP 952
+EP 954
+DT Editorial Material
+PD MAY 1 1998
+PY 1998
+TC 2
+ZS 0
+ZA 0
+ZB 0
+Z8 0
+ZR 0
+Z9 2
+SN 0012-9976
+DA 1998-05-01
+UT WOS:000074076900011
+ER
+
+EF
