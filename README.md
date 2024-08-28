@@ -1,6 +1,6 @@
 # Tongji Unviersity beamer template
 
-An Tongji Unviersity beamer template based on PKU and THU beamer template
+A Tongji Unviersity beamer template based on PKU and THU beamer template
 
 ## Demo Image
 
